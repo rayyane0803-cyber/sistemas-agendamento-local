@@ -37,10 +37,10 @@ O sistema contará com:
 
 ### 2.2 Escopo Não Incluído 
 O sistema não contará inicialmente com:
-• Pagamentos online;
-• Atendimento por videochamada;
-• Integração com sistemas internacionais;
-• Inteligência artificial avançada.
+Pagamentos online;
+Atendimento por videochamada;
+Integração com sistemas internacionais;
+Inteligência artificial avançada.
 ---
 
 ## 3. Requisitos Funcionaís
